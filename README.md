@@ -1,6 +1,6 @@
 # trade_way
 
-A new Flutter project.
+Trade way is a premium stock trading app that you can use to trade in any stock.
 
 ## Getting Started
 
